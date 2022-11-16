@@ -5,7 +5,10 @@
       <map>
         <entry key="..\:/AndroidProjects/SaveScreenShot/app/src/main/res/drawable/ic_round_close_24.xml" value="0.117" />
         <entry key="..\:/AndroidProjects/SaveScreenShot/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/AndroidProjects/SaveScreenShot/app/src/main/res/layout/activity_main2.xml" value="0.16485507246376813" />
         <entry key="..\:/AndroidProjects/SaveScreenShot/app/src/main/res/layout/activity_show_info.xml" value="0.22" />
+        <entry key="..\:/AndroidProjects/SaveScreenShot/app/src/main/res/layout/fragment_register.xml" value="0.19583333333333333" />
+        <entry key="..\:/AndroidProjects/SaveScreenShot/app/src/main/res/layout/fragment_show_reserve_info.xml" value="0.19583333333333333" />
         <entry key="..\:/AndroidProjects/SaveScreenShot/app/src/main/res/layout/layout_fields.xml" value="0.33" />
       </map>
     </option>

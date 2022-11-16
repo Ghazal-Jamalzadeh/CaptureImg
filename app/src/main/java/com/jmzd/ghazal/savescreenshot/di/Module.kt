@@ -13,7 +13,6 @@ import javax.inject.Singleton
 @Module
 @InstallIn(SingletonComponent::class)
 object Module {
-
     @Provides
     @Singleton
     fun provideReserve() = Reserve()
